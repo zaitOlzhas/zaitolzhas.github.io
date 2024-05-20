@@ -1,3 +1,7 @@
+---
+layout: post
+title: Blogging is good
+---
 ## Testing page for blog
 
 - similar name
