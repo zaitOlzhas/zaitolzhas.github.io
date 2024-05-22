@@ -16,6 +16,7 @@ Cамый быстрый и простой спосб запустить Jekyll 
 2. Переименуйте репозиторий в username.github.io
 > Где username это ваш логин на GitHub. Для примера, если ваш логин на GitHub `zaitolzhas`, то название репозитория должно быть `zaitolzhas.github.io`
 3. Включите Github pages в настройках репозитория
+![alt text](../images/Enable-github-pages.jpg)
 4. Перейдите по адресу https://zaitolzhas.github.io
 
 ### Добавляем первый посты в блог
@@ -29,6 +30,7 @@ Cамый быстрый и простой спосб запустить Jekyll 
     - Перейдите в папку `_posts`
     - Кликните на кнопку "Add file" и выберите "Create new file"
 2\. Введите имя файла в формате 2024-5-22-first-post.md
+![alt text](../images/Create-new-post.jpg)
 3\. Вставьте следующий код в файл
 {% highlight markdown %}
 ---
