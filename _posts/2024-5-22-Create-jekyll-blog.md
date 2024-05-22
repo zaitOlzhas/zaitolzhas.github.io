@@ -29,9 +29,8 @@ Cамый быстрый и простой спосб запустить Jekyll 
     - Перейдите в папку `_posts`
     - Кликните на кнопку "Add file" и выберите "Create new file"
 2. Введите имя файла в формате 2024-5-22-first-post.md
-3. Вставьте следующий код в файл 
-
-``` markdown
+3. Вставьте следующий код в файл
+{% highlight markdown linenos %}
 ---
 layout: post
 title: Мой первый пост в блоге
@@ -45,7 +44,7 @@ title: Мой первый пост в блоге
 - Третий пункт
 
 Markdown очень удобная штука, все ньюансы можно посмотреть [здесь](https://guides.github.com/features/mastering-markdown/)
-```
+{% endhighlight %}
 4. Нажмите на кнопку `Commit changes`
 5. Передите во вкладку `Actions` и дождитесь окончания сборки
 6. Ваш пост готов, перейдите по ссылке https://username.github.io/
